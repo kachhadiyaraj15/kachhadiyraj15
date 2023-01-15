@@ -1,4 +1,4 @@
-# kachhadiyarj15
+![image](https://user-images.githubusercontent.com/110079774/212541411-1c5a1647-0d12-4ac6-8a0a-be0b8457664c.png)
 <h1 align="center">Hi 👋, I'm Rajkumar Kachadiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
